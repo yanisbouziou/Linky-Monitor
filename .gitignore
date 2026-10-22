@@ -1,0 +1,25 @@
+.DS_Store
+
+# Xcode user settings and local state
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# Build products
+build/
+build-macos/
+Build/
+
+# Swift / Xcode generated files
+*.hmap
+*.ipa
+*.app/
+*.dSYM/
+*.swiftsourceinfo
+
+# Editor and local environment files
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
